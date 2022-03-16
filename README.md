@@ -1,0 +1,1 @@
+# Google-news-copy
