@@ -1,7 +1,1 @@
-# Google-news-copyaaaaaa
-
-####
-
-#####
-
-######
+# Google-news-copy
