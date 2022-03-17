@@ -1,9 +1,6 @@
-function App() {
-  return (
-    <>
-      <h1>aaaaaa</h1>
-    </>
-  );
-}
+// import { Header } from "./components/atoms/Header";
+import { ResponsiveDrawer } from "./components/templetes/ResponsiveDrawer";
 
-export default App;
+export const App = () => {
+  return <ResponsiveDrawer />;
+};
