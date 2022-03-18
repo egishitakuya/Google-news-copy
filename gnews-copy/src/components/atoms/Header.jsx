@@ -1,10 +1,10 @@
-export const Header = () => {
-  return (
-    <div>
-      <h1>Googleニュース</h1>
+import { BrowserRouter, Link, Switch, Route } from "react-router-dom";
 
-      <input type="text" />
-      <button>検索</button>
-    </div>
-  );
-};
+import { Top } from "../pages/Top";
+
+// export const Header = () => {
+//   return (
+//     <div>
+//     </div>
+//   );
+// };
