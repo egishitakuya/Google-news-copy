@@ -8,10 +8,6 @@ export const DefaultLayout = () => {
       <Link to="/top">トップニュース</Link>
       <br />
       <Link to="/news">おすすめ</Link>
-      <div>フォロー中</div>
-      <div>ニュースショーケース</div>
-      <div>保存済み検索条件</div>
-      <div>COVID-19</div>
 
       <Switch>
         <Route path="/top">
