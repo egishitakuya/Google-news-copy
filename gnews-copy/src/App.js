@@ -1,10 +1,10 @@
 import React from "react";
-import { DefaultLayout } from "./components/templetes/DefaultLayout";
+import { HeaderSidebar } from "./components/templetes/HeaderSidebar";
 
 export const App = () => {
   return (
     <>
-      <DefaultLayout />
+      <HeaderSidebar />
     </>
   );
 };
